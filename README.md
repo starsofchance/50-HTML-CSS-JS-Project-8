@@ -6,4 +6,4 @@
 # 50 HTML, CSS, and JS sample project
 ## Project 8: Mini Calendar
 A Preview of the project output.
-![]()
+![](https://github.com/starsofchance/50-HTML-CSS-JS-Project-8/blob/main/Animation.gif)
