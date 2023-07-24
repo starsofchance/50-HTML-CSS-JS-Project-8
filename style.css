@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-color: #ffb84c;
+}
+.calender-container {
+  background-color: #c4dfdf;
+  width: 300px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  /* using the next line of code, the styling of the monthName section wont dispear the border radios */
+  overflow: hidden;
+}
+.monthName {
+  margin: 0;
+  background-color: #a459d1;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.dayName {
+  font-size: 20px;
+}
+.dayNumber {
+  font-size: 80px;
+  margin: 0;
+}
+.year {
+  margin: 20px 0;
+  font-size: 20px;
+  font-weight: 500;
+}
